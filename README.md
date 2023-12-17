@@ -21,5 +21,5 @@
 
 <h3 align="left">My Statistics 🚀</h3>
 ![SanduniNavodya's github stats](https://github-readme-stats.vercel.app/api?username=SanduniNavodya&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanduniNavodya&theme=tokyonight" alt="mystreak"/>
 ![SanduniNavodya's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanduniNavodya&theme=tokyonight&layout=compact)
