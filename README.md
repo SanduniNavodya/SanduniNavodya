@@ -1,3 +1,5 @@
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Sanduni Navodya</h1>
 <h3 align="center">Passionate IT Student from Sri Lanka</h3>
 
