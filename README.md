@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanduni Navodya</h1>
 <h3 align="center">Passionate IT Student from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanduninavodya&label=Profile%20views&color=0e75b6&style=flat" alt="sanduninavodya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanduninavodya&label=Profile%20views&color=0e75b6&style=flat" alt="sanduninavodya" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
