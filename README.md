@@ -1,12 +1,12 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Sanduni Navodya</h1>
-<h3 align="center">Passionate IT Student from Sri Lanka</h3>
+<h3 align="center">Passionate Data Science Undergraduate from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanduninavodya&label=Profile%20views&color=0e75b6&style=flat" alt="sanduninavodya" /> </p>
 
 - 🔭 I’m currently working on Something Interesting
-- 🌱 I’m currently learning as an undergraduate student at SLIIT
+- 🌱 I’m currently learning as an data science undergraduate student at SLIIT
 - 👯 I’m looking to collaborate on New Projects
 - 💬 Ask me about Anything
 - 📫 How to reach me sanduninavodya01@gmail.com
