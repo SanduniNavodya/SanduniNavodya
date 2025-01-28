@@ -76,19 +76,10 @@
 </p>
 
 
-
-
-## My Statistics 🚀
+## 🚀 My Statistics
 ![SanduniNavodya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanduniNavodya&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanduniNavodya&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanduniNavodya&theme=tokyonight&layout=compact)
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SanduniNavodya&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
 ## Connect with me
