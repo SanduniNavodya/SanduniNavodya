@@ -79,9 +79,12 @@
 
 
 ## My Statistics 🚀
-![SanduniNavodya's github stats](https://github-readme-stats.vercel.app/api?username=SanduniNavodya&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanduniNavodya&theme=tokyonight&layout=compact)
+![SanduniNavodya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanduniNavodya&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanduniNavodya&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanduniNavodya&theme=tokyonight&layout=compact)
+
 
 
 ## 🏆 GitHub Trophies
