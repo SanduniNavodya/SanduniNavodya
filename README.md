@@ -84,6 +84,10 @@
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanduniNavodya&theme=tokyonight&layout=compact)
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SanduniNavodya&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+
 ## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/sanduni navodya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanduni navodya" height="30" width="40" /></a>
